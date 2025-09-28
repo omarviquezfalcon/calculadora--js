@@ -7,7 +7,6 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "test": "jest"
   },
   "repository": {
@@ -23,5 +22,10 @@
   "homepage": "https://github.com/omarviquezfalcon/calculadora--js#readme",
   "devDependencies": {
     "jest": "^30.2.0"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "save-dev": "^0.0.1-security",
+    "test": "^3.3.0"
   }
 }
